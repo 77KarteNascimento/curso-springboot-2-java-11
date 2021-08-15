@@ -60,11 +60,11 @@ public class User implements Serializable{
 		this.name = name;
 	}
 
-	public String getEmai() {
+	public String getEmail() {
 		return email;
 	}
 
-	public void setEmai(String email) {
+	public void setEmail(String email) {
 		this.email = email;
 	}
 
